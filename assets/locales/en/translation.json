@@ -1,0 +1,29 @@
+{
+  "home": "Home",
+  "programmers": "Programmers",
+  "projects": "Projects",
+  "services": "Services",
+  "contact": "Contact",
+  "textOne": "Welcome to",
+  "textTwo": "IT Company",
+  "Service1": "Web application",
+  "Service2": "Mobile Applications",
+  "Service3": "Desktop applications",
+  "location": "Tashkent City, Almazar district, Karakmish 2/5",
+  "NameProgrammer1": "Bolliyev Dilshod",
+  "NameProgrammer2": "Fayyozbekov Erkaboy",
+  "NameProgrammer3": "Ergashev Baxtiyor",
+  "NameProgrammer4": "Mirhaidov Ilhomjon",
+  "NameProgrammer5": "Malikov Murodxon",
+  "textThree": "Our team creates websites, mobile and desktop applications using modern programming languages.",
+
+  "ProgrammerOne": "2011-2015 was a student of TUIT. He is currently the CEO of ITComp Frilanser Group. Knows the following programming languages: JAVA Spring, Python Django, Html, CSS, Js, DataBase: MySQL, Postgress",
+  "ProgrammerTwo": "He is currently a 4th year student at TUIT. Backend programmer on Python Django. Knowledge of programming languages: Html, Css, JavaScript, Python, Dajngo, DFR, Aiogram, Git, PostgreSql. Position: Backend programmer at ITCOMP.",
+  "ProgrammerThree": "2017-2021 was a TUIT student. Python Django backend programmer. Knows: Python, Aiogram, PostgreSql, Django, Django Rest Framework, Git, Github, HMTL, JavaScript. Position: backend programmer at ITCOMP and mentor at IT Park.",
+  "ProgrammerFour": "He is currently a 4th year student at the Uzbek State University of Physical Culture. Flutter mobile programmer. Knows: Dart, Flutter, FireBase, Cetx, Bloc architecture, JavaScript, NodeJS, Phyton. Position: mobile programmer at ITCOMP.",
+  "ProgrammerFive": "He is currently a 4th year student at TUIT. ReactJS Frontend Programmer. Knows: C ++, HTML, CSS, SCSS Bootstrap, JavaScript, ReactJs, Redux, Postman, GitHub, GitLab. Position: Frontend Programmer at ITCOMP",
+
+  "serviceOne": "Our iTComp team: Web creates modern web sites using modern programming technologies (Phyton, Django, JavaScript, React) and other programming languages when creating applications and sites. We are fully responsible for the security of the projects we create and provide technical support.",
+  "serviceTwo": "Our iTComp team: Creates modern mobile applications using modern programming technologies (Flutter, Dart, Python, Django) and other programming languages when creating mobile applications. We are fully responsible for the security of the projects we create and provide technical support.",
+  "serviceThree": "Our iTComp team: Desktop creates modern Desktop applications using modern programming technologies (C # ,, Python, Django) and other programming languages when creating applications. We are fully responsible for the security of the projects we create and provide technical support."
+}

@@ -1,0 +1,29 @@
+{
+  "home": "Bosh menyu",
+  "programmers": "Dasturchilar",
+  "projects": "Loyihalar",
+  "services": "Xizmatlar",
+  "contact": "Aloqa",
+  "textOne": "Xush kelibsiz",
+  "textTwo": "IT Kompaniyasiga",
+  "textThree": "Bizning jamoamiz zamonaviy dasturlash tillaridan foydalanib web-sayt, mobile va desktop dasturlar yaratadi.",
+  "Service1": "Web ilovalar",
+  "Service2": "Mobile ilovalar",
+  "location": "Toshkent Shahar, Olmazor tumani, Qoraqmish 2/5",
+  "Service3": "Desktop ilovalar",
+  "NameProgrammer1": "Bolliyev Dilshod",
+  "NameProgrammer2": "Fayyozbekov Erkaboy",
+  "NameProgrammer3": "Ergashev Baxtiyor",
+  "NameProgrammer4": "Mirhaidov Ilhomjon",
+  "NameProgrammer5": "Malikov Murodxon",
+
+  "ProgrammerOne": "2011-2015 TATU talabasi bo'lgan. Hozirda ITComp Frilanser Group kompaniyasi raxbari. Quyidagi dasturlash tillarini biladi JAVA Spring, Python Django, Html, CSS, Js,  DataBase:MySQL,Postgress",
+  "ProgrammerTwo": "Hozirda TATU 4-kurs talabasi. Python Django bo'yicha backend dasturchisi. Biladigon dasturlash tillari: Html , Css , JavaScript, Python , Dajngo, DFR, Aiogram, Git , PostgreSql. Lavozimi: ITCOMP firmasida backend dasturchisi.",
+  "ProgrammerThree": "2017-2021 TATU talabasi bo'lgan. Python Django backend dasturchi. Biladigan texnalogiyalari: Python, Aiogram, PostgreSql, Django, Django Rest Framework,Git, Github, HMTL, JavaScript. Lavozimi: ITCOMP firmasida backend dasturchisi va IT Park firmasida mentor.",
+  "ProgrammerFour": "Hozirda O'zbekiston davlat Jismoniy tarbiya univarsiteti 4-kurs talabasi. Flutter mobile  dasturchi. Biladigan texnalogiyalari: Dart, Flutter, FireBase, Cetx,   Bloc architecture, JavaScript, NodeJS, Phyton  . Lavozimi: ITCOMP firmasida mobile dasturchisi",
+  "ProgrammerFive": "Hozirda TATU 3-kurs talabasi. ReactJS Frontend dasturchi. Biladigan texnalogiyalari: C++, HTML, CSS, SCSS Bootstrap, JavaScript, ReactJs, Redux, Postman, GitHub, GitLab. Lavozimi: ITCOMP firmasida Frontend dasturchisi",
+
+  "serviceOne": "Bizning iTComp kompaniyasi jamoasi:  Web ilova va saytlarlar yaratishda zamonaviy dasturlash texnalogiyalaridan (Phyton, Django, JavaScript, React ) va boshqa dasturlash tillaridan foydalangan holatda zamonaviy web saytlar yaratadi. Biz  yaratgan loyihalar havfsizligiga to'liq javob beramiz va texnik qo'llab quvvatlaymiz.  ",
+  "serviceTwo": "Bizning iTComp kompaniyasi jamoasi:  Mobile ilovalar yaratishda zamonaviy dasturlash texnalogiyalaridan (Flutter, Dart, Python, Django ) va boshqa dasturlash tillaridan foydalangan holatda zamonaviy mobile dasturlar yaratadi. Biz  yaratgan loyihalar havfsizligiga to'liq javob beramiz va texnik qo'llab quvvatlaymiz.  ",
+  "serviceThree": "Bizning iTComp kompaniyasi jamoasi:  Desktop ilovalar yaratishda zamonaviy dasturlash texnalogiyalaridan (C#,, Python, Django ) va boshqa dasturlash tillaridan foydalangan holatda zamonaviy Desktop dasturlar yaratadi. Biz  yaratgan loyihalar havfsizligiga to'liq javob beramiz va texnik qo'llab quvvatlaymiz.  "
+}
